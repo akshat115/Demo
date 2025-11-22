@@ -1,4 +1,4 @@
 Hello, World!
 
-From my new file to you!
+From my new file to you.
 ln
